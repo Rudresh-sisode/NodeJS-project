@@ -1,0 +1,2 @@
+iphone, 70008, mobile, 64gb, Apple
+Oppo, 49032, mobile, 33gb, Samsang

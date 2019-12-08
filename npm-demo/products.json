@@ -1,0 +1,7 @@
+{
+    "product":[
+        {"name":"piza","Quanity":44,"Price":433},
+        {"name":"Burger","Quanity":74,"Price":33},
+        {"name":"salad","Quanity":24,"Price":93}
+    ]
+}
