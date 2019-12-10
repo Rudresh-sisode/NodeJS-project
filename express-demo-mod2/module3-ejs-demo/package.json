@@ -1,18 +1,18 @@
 {
-  "name": "express-demo-mod2",
+  "name": "module3-ejs-demo",
   "version": "1.0.0",
-  "description": "nodejs application using expressjs",
+  "description": "ejs demo",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "expressjs"
+    "nodejs"
   ],
-  "author": "Rudresh sisodiya",
+  "author": "rudresh sisodiya",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^3.0.1",
     "express": "^4.17.1"
   }
 }

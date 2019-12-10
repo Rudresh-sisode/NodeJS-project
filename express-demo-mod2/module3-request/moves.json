@@ -1,0 +1,8 @@
+{
+    "Movies":[
+        {"name" : "avanger","year": "200", "director":"Ruso brother"},
+        {"name" : "pink","year": "2017", "director":"Ruso brino"},
+        {"name" : "impulse","year": "2019", "director":"Kiso liara"},
+        {"name" : "Thining","year": "2019", "director":"cuno zainnar"}
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "student":[
+        {"name" :"Robert","course":"bs computer"},
+        {"name":"mark","course" : "it computer"}
+    ]
+}
