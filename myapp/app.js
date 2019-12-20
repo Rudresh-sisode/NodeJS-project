@@ -48,7 +48,11 @@ app.get('/register',(req,res)=>{
 
     res.sendFile(__dirname + "/index.html");
 });
+/*
+2:29:00time stamp
+-X$kbDauDnJZb4Q(gridsendpaswosl)
 
+*/
 app.post('/register',(req,res)=>{
     console.log(req.body);
     var userCollection=new user();//ORM -> mapped with schema or model
